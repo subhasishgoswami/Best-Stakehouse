@@ -22,7 +22,7 @@ python app.py
 ```
 <br>
 <div align="center" class="row">
-  <img src="./Screenshots/run.gif" width="400"/>
+  <img src="https://i.imgur.com/9I1Xi5k.gif" width="400"/>
 </div>
 <br>
 
